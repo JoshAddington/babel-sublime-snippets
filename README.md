@@ -36,6 +36,7 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 | `cwr→`   | `componentWillReceiveProps(nextProps) {…}` |
 | `cwun→`  | `componentWillUnmount() {…}` |
 | `cwup→`  | `componentWillUpdate(nextProps, nextState) {…}` |
+| `rconst→`| `constructor(props){…}` |
 | `fdn→`   | `React.findDOMNode(…)` |
 | `gdp→`   | `getDefaultProps() {…}` |
 | `gis→`   | `getInitialState() {…}` |
